@@ -1,4 +1,4 @@
-# Decompiler Artifact Repair — a Case Study
+# Terraria-1.4.5.8-decomp-recomp
 
 A **decompiled** C# game codebase (Terraria 1.4.5.8, .NET Framework 4.7.2, x86)
 rebuilt into a working executable, then five defects repaired.
@@ -6,7 +6,9 @@ rebuilt into a working executable, then five defects repaired.
 All five were introduced by the decompiler. All five **compile cleanly and produce
 zero compiler warnings**.
 
-> Text only — no images or game assets.
+<img width="1920" height="1200" alt="{63C0C58B-DB1A-4486-97ED-26ABDD4D5B54}" src="https://github.com/user-attachments/assets/97f37404-fcd1-4586-a0e0-686bfaa1b87a" />
+<img width="1920" height="1200" alt="{045D5960-78F0-447A-B645-0189ABAA827D}" src="https://github.com/user-attachments/assets/1a446f0c-edf6-47e6-92c6-ef87c1e8206b" />
+
 
 ---
 

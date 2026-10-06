@@ -1,5 +1,7 @@
 # Terraria-1.4.5.8-decomp-recomp
 
+> Language: [English](README.md) | [繁體中文](README.zh-TW.md)
+
 A **decompiled** C# game codebase (Terraria 1.4.5.8, .NET Framework 4.7.2, x86)
 rebuilt into a working executable, then five defects repaired.
 

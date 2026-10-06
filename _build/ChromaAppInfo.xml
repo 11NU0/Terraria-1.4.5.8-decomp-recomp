@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application>
+    <title>Terraria</title>
+    <description>The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!</description>
+    <author name="Re-Logic, Inc." contact="https://www.terraria.org"/>
+    <device_supported keyboard="1" mouse="1" headset="1" mousepad="1" keypad="1" chromalink="1"/>
+	<category game="1" />
+</application>

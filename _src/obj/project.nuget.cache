@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRMaQ6d9TXE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ysx5\\Downloads\\Terraria.v1.4.5.8-P2P\\_src\\Terraria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ysx5\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\ysx5\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
+    "C:\\Users\\ysx5\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

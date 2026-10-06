@@ -1,0 +1,109 @@
+using System.Collections.Generic;
+
+namespace Terraria.ID;
+
+public static class CloudID
+{
+	public static class Sets
+	{
+		public static SetFactory Factory = new SetFactory(Count);
+
+		public static List<int> RareClouds_Normal = new List<int>
+		{
+			22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+			32, 33, 34, 35, 36, 37, 38, 39, 40, 41
+		};
+
+		public static List<int> RareClouds_Celebration = new List<int>
+		{
+			22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+			32, 33, 34, 35, 36, 41
+		};
+	}
+
+	public const int Regular1 = 0;
+
+	public const int Regular2 = 1;
+
+	public const int Regular3 = 2;
+
+	public const int Regular4 = 3;
+
+	public const int CirroCumulus1 = 4;
+
+	public const int CirroCumulus2 = 5;
+
+	public const int CirroCumulus3 = 6;
+
+	public const int CirroCumulus4 = 7;
+
+	public const int CirroCumulus5 = 8;
+
+	public const int Cirrus1 = 9;
+
+	public const int Cirrus2 = 10;
+
+	public const int Cirrus3 = 11;
+
+	public const int Cirrus4 = 12;
+
+	public const int Cirrus5 = 13;
+
+	public const int Cummulus1 = 14;
+
+	public const int Cummulus2 = 15;
+
+	public const int Cummulus3 = 16;
+
+	public const int Cummulus4 = 17;
+
+	public const int Cumulonimbus1 = 18;
+
+	public const int Cumulonimbus2 = 19;
+
+	public const int Cumulonimbus3 = 20;
+
+	public const int Cumulonimbus4 = 21;
+
+	public const int Rare_Bird = 22;
+
+	public const int Rare_Bunny = 23;
+
+	public const int Rare_Eater = 24;
+
+	public const int Rare_EOC1 = 25;
+
+	public const int Rare_EOC2 = 26;
+
+	public const int Rare_Goldfish = 27;
+
+	public const int Rare_Redigit = 28;
+
+	public const int Rare_Heart = 29;
+
+	public const int Rare_Pumpking = 30;
+
+	public const int Rare_Skeletron = 31;
+
+	public const int Rare_Star = 32;
+
+	public const int Rare_Sword = 33;
+
+	public const int Rare_Tree = 34;
+
+	public const int Rare_Wyvern = 35;
+
+	public const int Rare_BOC = 36;
+
+	public const int Rare_DontStarveWilson = 37;
+
+	public const int Rare_DontStarveWillow = 38;
+
+	public const int Rare_DontStarveMaxwell = 39;
+
+	public const int Rare_DontStarveCharlie = 40;
+
+	public const int Rare_Pixie = 41;
+
+	public static readonly int Count = 42;
+}
